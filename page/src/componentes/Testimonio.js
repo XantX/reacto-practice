@@ -1,4 +1,3 @@
-import React from "react";
 import "../estilos/Testimonio.css";
 
 function Testimonio(props) {
