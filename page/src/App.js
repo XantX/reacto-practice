@@ -8,7 +8,7 @@ function App() {
 				<h1>Here is what our alumni say about freeCodeCamp:</h1>
 
 				<Testimonio
-					nombre="Shawn Wang"
+					nombre="Shaw Wang"
 					pais="Singapore"
 					imagen="Shawn"
 					cargo="Software Engineer"
