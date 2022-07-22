@@ -23,5 +23,13 @@ body {
 	justify-content: center;
 	margin: 20px;
 }
-.freecodecamp-logo {
+
+.contenedor-principal {
+	height: 550px;
+	min-width: 600px;
+	display: flex;
+	flex-wrap: wrap;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
 }
